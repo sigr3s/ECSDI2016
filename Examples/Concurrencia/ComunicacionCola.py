@@ -2,7 +2,7 @@
 """
 filename: ComunicacionCola
 
-Un subproceso qeu se comunica con el proceso principal con una cola
+Un subproceso que se comunica con el proceso principal con una cola
 
 Created on 12/02/2014
 """
